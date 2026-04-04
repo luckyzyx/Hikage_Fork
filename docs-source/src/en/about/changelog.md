@@ -125,7 +125,11 @@ To ensure consistency of automatically generated code, the versions of [hikage-c
 
 ## hikage-widget-androidx
 
-### 1.0.1 | 2025.08.24 &ensp;<Badge type="tip" text="latest" vertical="middle" />
+### 1.0.2 | 2026.04.04 &ensp;<Badge type="tip" text="latest" vertical="middle" />
+
+- Updated to follow the changes in [hikage-core](#hikage-core)
+
+### 1.0.1 | 2025.08.24 &ensp;<Badge type="warning" text="stale" vertical="middle" />
 
 - Added `MotionLayout`, `ImageFilterButton`, `ImageFilterView`, `MockView`, `MotionButton`, `MotionLabel`, `MotionTelltales` components to `ConstraintLayout`
 - Adjusted some components to be `final`
@@ -136,7 +140,11 @@ To ensure consistency of automatically generated code, the versions of [hikage-c
 
 ## hikage-widget-material
 
-### 1.0.1 | 2025.08.24 &ensp;<Badge type="tip" text="latest" vertical="middle" />
+### 1.0.2 | 2026.04.04 &ensp;<Badge type="tip" text="latest" vertical="middle" />
+
+- Updated to follow the changes in [hikage-core](#hikage-core)
+
+### 1.0.1 | 2025.08.24 &ensp;<Badge type="warning" text="stale" vertical="middle" />
 
 - Adjusted some components to be `final`
 

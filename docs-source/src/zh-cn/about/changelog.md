@@ -117,7 +117,11 @@
 
 ## hikage-widget-androidx
 
-### 1.0.1 | 2025.08.24 &ensp;<Badge type="tip" text="最新" vertical="middle" />
+### 1.0.2 | 2026.04.04 &ensp;<Badge type="tip" text="最新" vertical="middle" />
+
+- 跟随 [hikage-core](#hikage-core) 变更进行一次更新
+
+### 1.0.1 | 2025.08.24 &ensp;<Badge type="warning" text="过旧" vertical="middle" />
 
 - `ConstraintLayout` 新增 `MotionLayout`、`ImageFilterButton`、`ImageFilterView`、`MockView`、`MotionButton`、`MotionLabel`、`MotionTelltales` 组件
 - 调整部分组件为 `final`
@@ -128,7 +132,11 @@
 
 ## hikage-widget-material
 
-### 1.0.1 | 2025.08.24 &ensp;<Badge type="tip" text="最新" vertical="middle" />
+### 1.0.2 | 2026.04.04 &ensp;<Badge type="tip" text="最新" vertical="middle" />
+
+- 跟随 [hikage-core](#hikage-core) 变更进行一次更新
+
+### 1.0.1 | 2025.08.24 &ensp;<Badge type="warning" text="过旧" vertical="middle" />
 
 - 调整部分组件为 `final`
 
