@@ -7,11 +7,6 @@ plugins {
 group = gropify.project.groupName
 version = gropify.project.hikage.compiler.version
 
-java {
-    sourceCompatibility = JavaVersion.VERSION_17
-    targetCompatibility = JavaVersion.VERSION_17
-}
-
 dependencies {
     compileOnly(libs.ksp.symbol.processing.api)
 
